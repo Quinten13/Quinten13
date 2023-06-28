@@ -1,4 +1,4 @@
-### Hi there my name is Quinten 
+
 <h1>Hi, I'm Quinten, an <a href="https://www.linkedin.com/in/quinten-salinas-03742b186/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
